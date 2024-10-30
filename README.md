@@ -5,7 +5,8 @@ Controllers list page test cases.
 # Description
 
 This project aims at tesing the filter by alerts option from the "List of controllers"
-section from 'Smart Green' web page. Within this project can be found tests of functionality,
+section from 'Smart Green' web page, where only clients can enter.
+Within this project can be found tests of functionality,
 acceptance and usability for the filter option.
 
 The test cases are features, where the scenarios to test are devised, as well as the
