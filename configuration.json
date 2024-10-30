@@ -1,0 +1,5 @@
+{
+  "browsers_enum" :  ["chrome", "firefox", "edge"],
+
+  "browser_default" : "chrome"
+}
